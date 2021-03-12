@@ -1,0 +1,5 @@
+In Python you can make classes
+In Python you can append lists
+In Python you can strip lines
+In Python you can make subclasses
+In Python you can read from text files
